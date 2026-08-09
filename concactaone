@@ -1,0 +1,2 @@
+getgenv().KurinianKey = "Kurinian-H83JS76B"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Iwgbaoo/KurinianHub/refs/heads/main/Loader.lua"))()
