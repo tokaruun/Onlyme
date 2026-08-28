@@ -1,4 +1,4 @@
-Scripts_Type = "PullLever"
+Scripts_Type = "KaitunV4"
 
 -- This file was protected using Luraph Obfuscator v15.0 [https://lura.ph/]
 
